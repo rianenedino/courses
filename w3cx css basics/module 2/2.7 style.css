@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+    margin-right: 50%;
+}
+
+h1 {
+    background-color: orange;
+    padding: 20px;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: orange;
+    padding: 20px;
+}
+
+novo {
+    padding: 20px;
+    background-color: transparent;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+}
+
+p {
+    padding: 20px;
+    color: white;
+    border: 3px #807a79 dashed;
+}
+
+ol, ul {
+    padding: 30px;
+    background-color: #fce7cc;
+    color: black;
+    border: 3px #807a79 solid;
+    font-style: italic;
+}
+
+li {
+    padding: 5px;
+}
